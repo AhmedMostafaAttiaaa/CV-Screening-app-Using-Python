@@ -63,4 +63,4 @@ After running the above command, the executable file will be located inside the 
 - For further customization, modify the `app.py` file as needed.
 
 ---  
-Developed with ❤️ by **Ahmed Mostafa**
+- By **Ahmed Mostafa**
